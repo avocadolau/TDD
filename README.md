@@ -25,8 +25,6 @@ Target Platform (hardware and software specifications)
 
 External Tools to develop
 
-Development Team
-
 Development Time
 
 Branches Policy
