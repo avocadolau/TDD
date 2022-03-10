@@ -89,3 +89,6 @@ Code review: improving code without adding features
 Related with the technical goals, the performance budgets are a series of limits imposed on the metrics that affect the game performance. One the part of the performance budgets we define are the objective of FPS(frames per second) to which our game should go when we launch it to the market and how much time we spend as a maximum to the execution of different parts of the code (in ms). We can include a program to profile the FPS
 
 ![Image](https://github.com/avocadolau/TDD/blob/main/docs/brofilerImage.jpg)
+
+[images well loaded](https://github.com/avocadolau/TDD/blob/main/docs/index.md)
+
