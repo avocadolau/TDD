@@ -55,6 +55,7 @@ It defines the target platform for which the game will be delivered, such as PC,
 
 The UML offers a general outlook of the structure the code will have and the inheritance relation between its classes.
 UML diagrams show the functions and the variables included in each module. It is a guide used to see the whole picture of the code. Nevertheless, this guide will change as the project goes by and the game evolves, becoming more complex each time and being extended with more specified UML diagrams of the emergent code modules.
+
 ![Image](https://github.com/avocadolau/TDD/blob/main/docs/generalUML.jpg)
 
 ## Branch workflow
@@ -80,6 +81,7 @@ Code review: improving code without adding features
 
 
 ![Image](https://github.com/avocadolau/TDD/blob/main/docs/github-branches.jpg)
+
 ![Image](https://github.com/avocadolau/TDD/blob/main/docs/branches.jpg)
 
 ## Performance Budgets
