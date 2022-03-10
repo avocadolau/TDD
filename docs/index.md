@@ -87,36 +87,3 @@ Code review: improving code without adding features
 Related with the technical goals, the performance budgets are a series of limits imposed on the metrics that affect the game performance. One the part of the performance budgets we define are the objective of FPS(frames per second) to which our game should go when we launch it to the market and how much time we spend as a maximum to the execution of different parts of the code (in ms). We can include a program to profile the FPS
 
 ![Image](https://github.com/avocadolau/TDD/blob/main/docs/brofilerImage.jpg)
-
-
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/avocadolau/TDD/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
